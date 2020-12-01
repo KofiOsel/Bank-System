@@ -11,6 +11,5 @@ package banksystem;
  */
 public class BankSystem {
 
-    
-    
+
 }
